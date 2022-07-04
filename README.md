@@ -2,7 +2,7 @@
 - 🎒 Photography, UI/UX design, coding and hiking are my hobbies
 - 🌱 I’m currently learning SwiftUI, drawing, physics of light (for photo editing) and geek's tech things 
 - 💞️ I’m collaborated with Red Bread (my school friends team)
-- 📫 How to reach me?! I like Hangouts and iMessage - mr.killtop@gmail.com 
+- 📫 How to reach me?! I like Hangouts - mr.killtop@gmail.com and iMessage - mr.killtop@icloud.com 
       
      Also chatting in Telegram and Twitter - @glebdolskiy
 
